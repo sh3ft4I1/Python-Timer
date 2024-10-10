@@ -1,7 +1,7 @@
 ##### HOW TO USE IT ######
 
 
-add "@timer" to your function
+add "@timer" top of your function
 
 NOTE : @timer only works on if function is not returning anything
 
